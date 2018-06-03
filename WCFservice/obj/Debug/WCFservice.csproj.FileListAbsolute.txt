@@ -1,0 +1,7 @@
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WCFservice\WCFservice\bin\WCFservice.dll.config
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WCFservice\WCFservice\bin\WCFservice.dll
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WCFservice\WCFservice\bin\WCFservice.pdb
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WCFservice\WCFservice\obj\Debug\WCFservice.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WCFservice\WCFservice\obj\Debug\WCFservice.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WCFservice\WCFservice\obj\Debug\WCFservice.dll
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\WCFservice\WCFservice\obj\Debug\WCFservice.pdb
